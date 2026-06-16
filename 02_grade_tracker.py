@@ -1,4 +1,7 @@
+# Grade Tracker - tracks student grades and calculates averages
+
 students = {}
+
 
 def add_student(name):
     if name in students:
